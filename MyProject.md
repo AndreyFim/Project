@@ -6,3 +6,6 @@ new text new text new text
 new line text
 =======
 >>>>>>> new-project
+
+
+update from gui-kraken
